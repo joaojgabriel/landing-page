@@ -121,6 +121,14 @@ button {
   flex-basis: 200px;
 }
 
+.flex-item:first-of-type {
+  text-align: left;
+}
+
+.flex-item:last-of-type {
+  text-align: right;
+}
+
 section#quote {
   background: #e5e7eb;
   padding: 80px 0;
