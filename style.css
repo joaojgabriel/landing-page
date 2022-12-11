@@ -172,3 +172,9 @@ blockquote p {
   border-radius: 7px;
   padding: 40px 0;
 }
+
+.alert button {
+  border: 1.5px solid #f9faf8;
+  border-radius: 7px;
+  padding: 10px;
+}
