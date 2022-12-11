@@ -84,7 +84,7 @@ button {
 
 #info {
   text-align: center;
-  padding: 100px;
+  padding: 0 0 100px 0;
 }
 
 #info img {
@@ -98,6 +98,7 @@ button {
   font-size: 36px;
   color: #1f2937;
   font-weight: 800;
+  margin: 50px 0;
 }
 
 .flex-container {
