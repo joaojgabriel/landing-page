@@ -171,6 +171,14 @@ blockquote p {
   margin: 0 auto;
   border-radius: 7px;
   padding: 40px 0;
+  color: #e5e7eb;
+}
+
+.alert strong {
+  display: block;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 5px;
 }
 
 .alert button {
