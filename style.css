@@ -94,6 +94,12 @@ button {
   border-radius: 15px;
 }
 
+#info h2 {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 800;
+}
+
 .flex-container {
   display: flex;
   margin: 0 auto;
