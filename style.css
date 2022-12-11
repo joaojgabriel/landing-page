@@ -186,3 +186,9 @@ blockquote p {
   border-radius: 7px;
   padding: 10px;
 }
+
+footer {
+  padding: 20px;
+  text-align: center;
+  color: #e5e7eb;
+}
