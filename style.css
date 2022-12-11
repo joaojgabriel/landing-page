@@ -82,6 +82,10 @@ button {
   border-radius: 5px;
 }
 
+#info {
+  text-align: center;
+}
+
 #info img {
   width: 140px;
   height: 140px;
