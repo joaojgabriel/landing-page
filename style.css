@@ -110,6 +110,10 @@ button {
   text-align: center;
 }
 
+section#quote {
+  background: #e5e7eb;
+}
+
 blockquote p {
   font-weight: 300;
   font-style: italic;
