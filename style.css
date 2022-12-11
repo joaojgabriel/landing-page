@@ -86,4 +86,14 @@ button {
   width: 140px;
   height: 140px;
   object-fit: cover;
+  border-radius: 15px;
+}
+
+.flex-container {
+  display: flex;
+  margin: 0 auto;
+}
+
+.flex-item {
+  text-align: center;
 }
