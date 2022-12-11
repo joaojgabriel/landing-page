@@ -164,9 +164,11 @@ blockquote p {
 }
 
 .alert {
+  display: flex;
+  justify-content: space-around;
   width: 80%;
   max-width: 1000px;
   margin: 0 auto;
   border-radius: 7px;
-  padding: 20px;
+  padding: 40px 0;
 }
