@@ -109,3 +109,10 @@ button {
 .flex-item {
   text-align: center;
 }
+
+blockquote p {
+  font-weight: 300;
+  font-style: italic;
+  font-size: 36px;
+  color: #1f2937;
+}
