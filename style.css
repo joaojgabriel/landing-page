@@ -4,14 +4,15 @@
 }
 
 .media img {
-  max-width: 500px;
+  max-width: 400px;
+  border-radius: 20px;
 }
 
 .topbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px;
+  padding: 10px 7.5%;
 }
 
 header,
@@ -33,10 +34,50 @@ nav {
 .hero {
   display: flex;
   justify-content: center;
-  padding: 50px;
+  padding: 50px 0;
 }
 
 .media {
   display: flex;
-  width: 700px;
+  justify-content: space-between;
+  width: 85%;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+#logo,
+button,
+h1 {
+  color: #f9faf8;
+}
+
+#logo {
+  font-size: 24px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.content p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+button,
+.alert {
+  background: #3882f6;
+  border: #3882f6;
+}
+
+button {
+  padding: 7px;
+  border-radius: 5px;
 }
