@@ -14,6 +14,11 @@
   padding: 10px;
 }
 
+header,
+footer {
+  background: #1f2937;
+}
+
 a {
   text-decoration: none;
   font-size: 18px;
