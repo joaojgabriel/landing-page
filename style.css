@@ -159,6 +159,10 @@ blockquote p {
   font-weight: 600;
 }
 
+#cta {
+  padding: 100px 0;
+}
+
 .alert {
   width: 80%;
   max-width: 1000px;
