@@ -81,3 +81,9 @@ button {
   padding: 7px;
   border-radius: 5px;
 }
+
+#info img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+}
