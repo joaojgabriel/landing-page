@@ -12,7 +12,9 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 7.5%;
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 header,
@@ -40,7 +42,8 @@ nav {
 .media {
   display: flex;
   justify-content: space-between;
-  width: 85%;
+  width: 80%;
+  max-width: 1000px;
   align-items: center;
 }
 
@@ -98,16 +101,24 @@ button {
   font-size: 36px;
   color: #1f2937;
   font-weight: 800;
-  margin: 50px 0;
+  margin: 50px auto;
 }
 
 .flex-container {
   display: flex;
+  justify-content: space-between;
   margin: 0 auto;
+}
+
+#info h2,
+.flex-container {
+  width: 80%;
+  max-width: 1000px;
 }
 
 .flex-item {
   text-align: center;
+  flex-basis: 200px;
 }
 
 section#quote {
@@ -124,6 +135,7 @@ blockquote p {
 
 #quote .text {
   width: 80%;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
