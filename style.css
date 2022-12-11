@@ -158,3 +158,9 @@ blockquote p {
   text-align: right;
   font-weight: 600;
 }
+
+.alert {
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
