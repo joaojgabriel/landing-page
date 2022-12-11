@@ -149,4 +149,5 @@ blockquote p {
 
 #quote .author {
   text-align: right;
+  font-weight: 600;
 }
