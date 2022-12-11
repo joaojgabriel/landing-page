@@ -6,3 +6,10 @@
 .media img {
   max-width: 500px;
 }
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
