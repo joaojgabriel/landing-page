@@ -163,4 +163,5 @@ blockquote p {
   width: 80%;
   max-width: 1000px;
   margin: 0 auto;
+  border-radius: 7px;
 }
